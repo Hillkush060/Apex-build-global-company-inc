@@ -1,0 +1,6 @@
+Flask
+flask-login
+flask-sqlalchemy
+flask-mail
+flask-babel
+gunicorn
